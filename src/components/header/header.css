@@ -1,0 +1,46 @@
+h3 {
+  margin-right: 20px;
+  margin-bottom: 0;
+}
+
+h3 a {
+  color: white;
+  margin-left: 10px;
+  
+}
+
+h3:hover {
+  color: #038b69;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+
+.header {
+  display: flex;
+  align-self: center;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.header-nav {
+  display: flex;
+  align-items: center;
+}
+
+.nav-link {
+  color: #00bc8c;
+  padding: 0;
+  font-size: 18px;
+  margin-left: 2rem;
+}
+
+.nav-link:hover {
+  color: #038b69;
+  cursor: pointer;
+  text-decoration: none;
+}
